@@ -26,7 +26,8 @@ We are limiting the number of attempts.
 We are adding more rounds.
 We are displaying a score.
 We are giving points based on the number of attempts.
-GitHub Repository: 
+
+GitHub Repository:https://github.com/BhagyashreeSomase/OASIS-java-internship/blob/master/GuessingNumberGame/src/GuessingNumberGame/com/NumberGuessingGame.java 
 
 TASK 3: ATM INTERFACE
 
