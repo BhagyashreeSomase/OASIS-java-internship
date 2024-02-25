@@ -67,7 +67,8 @@ Admin module: Admin will have complete control over the system. Admin has permis
 
 Users: Normal users enjoy only limited privileges. They have view access to the books. They can browse the categories, search for a particular book, and return and issue a book. They are also provided with an email option in case of a query.
 
-GitHub Repository: 
+GitHub Repository: https://github.com/BhagyashreeSomase/OASIS-java-internship/blob/master/Digital%20Library%20Management/Library_management.java
+
 Overall, it was a great learning experience. It was an insightful experience as I got to work on different projects, test my skill, and network with amazing people.
 
 Thank you for reading here patiently. I am glad to complete this internship and recommend everyone to grab this fantastic opportunity the 
