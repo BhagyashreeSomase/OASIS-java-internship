@@ -9,7 +9,7 @@ View Seat Map
 Reserve Seat
 Cancel Reservation
 Exit
-GitHub Repository: 
+GitHub Repository:https://github.com/BhagyashreeSomase/OASIS-java-internship/tree/master/onlineReservationSystem
 
 TASK 2: NUMBER GUESSING GAME
 
