@@ -44,7 +44,7 @@ The project allows to perform the following operations:
 
 5. Quit
 
-GitHub Repository: 
+GitHub Repository: https://github.com/BhagyashreeSomase/OASIS-java-internship/tree/master/atmInterface/src/atmInterface
 
 TASK 4: ONLINE EXAMINATION
 
