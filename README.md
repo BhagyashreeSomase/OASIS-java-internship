@@ -53,8 +53,7 @@ Update Profile and Password
 Selecting answers for MCQs
 Timer and auto submit.
 Closing session and Logout
-GitHub Repository: https://github.com/SharvaniKadarla/OIBSIP
-
+GitHub Repository: 
 TASK 5: DIGITAL LIBRARY MANAGEMENT
 
 The main objective of this project is to provide a completely automated Library by digitising every functionality. Starting from the book-keeping, issuing of books, fine generation, booking and report generation, all will be accomplished under one single project. The project will be web-based, with a database server responsible for maintaining every single detail of the Library. It has a very user-friendly interface which any non-technical person can efficiently operate.
